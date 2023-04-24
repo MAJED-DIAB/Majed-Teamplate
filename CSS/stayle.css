@@ -1732,7 +1732,7 @@ header .container > ul > li > a:last-of-type:hover + .mega-list {
 .stats::before {
     width: 100%;
     height: 100%;
-    background-color: #ffffffa8;
+    background-color: #ffffff65;
     top: 0;
     left: 0;
 }
